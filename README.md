@@ -1,6 +1,6 @@
 # Advanced JavaScript Error Handling
 
-This repository contains advanced examples of JavaScript error handling techniques. Each example corresponds to a section in the [LinkedIn article](https://www.linkedin.com/p/your-article-link).
+This repository contains advanced examples of JavaScript error handling techniques. Each example corresponds to a section in the [LinkedIn article](https://www.linkedin.com/pulse/error-handling-javascript-beyond-basics-code-abolfazl-ghodrati-rmusf).
 
 ## Contents
 
